@@ -1,0 +1,11 @@
+﻿venv/
+data/*.csv
+data/*.zip
+data/*.bz2
+data/*.txt
+__pycache__/
+*.pyc
+models/*.pkl
+.env
+*.egg-info/
+.ipynb_checkpoints/
