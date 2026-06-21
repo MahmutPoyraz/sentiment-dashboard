@@ -56,6 +56,8 @@ html, body, [data-testid="stAppViewContainer"] {
 }
 section[data-testid="stSidebar"] > div {
     padding: 2.5rem 1.5rem !important;
+    overflow-y: auto !important;
+    height: auto !important;
 }
 
 .page-title {
