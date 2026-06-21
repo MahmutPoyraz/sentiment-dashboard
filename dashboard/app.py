@@ -99,7 +99,9 @@ div[data-baseweb="select"] > div {
     font-family: 'Plus Jakarta Sans', sans-serif !important;
     font-weight: 600 !important;
     color: #111827 !important;
-    padding: 0.3rem 0.5rem !important;
+    padding: 0.6rem 0.8rem !important;
+    min-height: 42px !important;
+    height: auto !important;
     transition: all 0.25s ease !important;
 }
 div[data-baseweb="select"] > div:hover {
