@@ -1,4 +1,8 @@
-# Lexara — Sentiment Analysis Dashboard
+## Live Demo
+
+[https://nlp-sentiment-engine.streamlit.app](https://nlp-sentiment-engine.streamlit.app)
+
+# Sentiment Analysis Dashboard
 
 An end-to-end NLP sentiment analysis system that classifies product reviews as **Positive** or **Negative** using multiple machine learning models, stores results in a SQL database, and visualizes trends through an interactive dashboard.
 
@@ -30,7 +34,7 @@ An end-to-end NLP sentiment analysis system that classifies product reviews as *
 └────────────────────────┬────────────────────────────────┘
                          │
 ┌────────────────────────▼────────────────────────────────┐
-│               Streamlit Dashboard (Lexara)              │
+│               Streamlit Dashboard                       │
 │ Analyze Review │ Statistics │ Model Comparison │ History│
 └─────────────────────────────────────────────────────────┘
 ```
@@ -142,7 +146,7 @@ sentiment-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentiment-dashboard.git
+git clone git clone https://github.com/MahmutPoyraz/sentiment-dashboard.git
 cd sentiment-dashboard
 ```
 
